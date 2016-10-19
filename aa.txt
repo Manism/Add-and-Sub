@@ -1,0 +1,28 @@
+http://basics-store.azurewebsites.net/Chennai/Velachery
+https://www.basicslife.com/lookbook
+http://basics-admin.azurewebsites.net/Admin/
+https://shop.basicslife.com/stores
+http://redeematstores.azurewebsites.net/
+http://www.chennaishoppingfestival.com
+
+
+
+
+
+***************************************LOOK BOOK***********************************************
+
+http://basics-admin.azurewebsites.net/Admin/
+
+User Name:admin@hasbro.com
+Password: Asdfg@123
+
+****************************************CSF****************************************************
+
+
+http://redeematstores.azurewebsites.net/
+http://www.chennaishoppingfestival.com
+
+User Name:rai@redeematstores.com
+Password:rai@123
+
+***********************************************************************************************
